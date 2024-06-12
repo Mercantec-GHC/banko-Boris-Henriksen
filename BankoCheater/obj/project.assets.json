@@ -8,24 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\MAGS\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\bhh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MAGS\\Documents\\GitHub\\BankoCheater\\BankoCheater.csproj",
+      "projectUniqueName": "C:\\Users\\bhh\\OneDrive - mercantec\\Programmering valgfag\\banko-Boris-Henriksen\\BankoCheater\\BankoCheater.csproj",
       "projectName": "BankoCheater",
-      "projectPath": "C:\\Users\\MAGS\\Documents\\GitHub\\BankoCheater\\BankoCheater.csproj",
-      "packagesPath": "C:\\Users\\MAGS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MAGS\\Documents\\GitHub\\BankoCheater\\obj\\",
+      "projectPath": "C:\\Users\\bhh\\OneDrive - mercantec\\Programmering valgfag\\banko-Boris-Henriksen\\BankoCheater\\BankoCheater.csproj",
+      "packagesPath": "C:\\Users\\bhh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bhh\\OneDrive - mercantec\\Programmering valgfag\\banko-Boris-Henriksen\\BankoCheater\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\MAGS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\bhh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -46,6 +41,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

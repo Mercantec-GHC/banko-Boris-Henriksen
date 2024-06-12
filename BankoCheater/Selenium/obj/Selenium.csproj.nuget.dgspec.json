@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bhh\\OneDrive - mercantec\\Programmering valgfag\\banko-Boris-Henriksen\\BankoCheater\\BankoCheater.csproj": {}
+    "C:\\Users\\bhh\\OneDrive - mercantec\\Programmering valgfag\\banko-Boris-Henriksen\\BankoCheater\\Selenium\\Selenium.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bhh\\OneDrive - mercantec\\Programmering valgfag\\banko-Boris-Henriksen\\BankoCheater\\BankoCheater.csproj": {
+    "C:\\Users\\bhh\\OneDrive - mercantec\\Programmering valgfag\\banko-Boris-Henriksen\\BankoCheater\\Selenium\\Selenium.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bhh\\OneDrive - mercantec\\Programmering valgfag\\banko-Boris-Henriksen\\BankoCheater\\BankoCheater.csproj",
-        "projectName": "BankoCheater",
-        "projectPath": "C:\\Users\\bhh\\OneDrive - mercantec\\Programmering valgfag\\banko-Boris-Henriksen\\BankoCheater\\BankoCheater.csproj",
+        "projectUniqueName": "C:\\Users\\bhh\\OneDrive - mercantec\\Programmering valgfag\\banko-Boris-Henriksen\\BankoCheater\\Selenium\\Selenium.csproj",
+        "projectName": "Selenium",
+        "projectPath": "C:\\Users\\bhh\\OneDrive - mercantec\\Programmering valgfag\\banko-Boris-Henriksen\\BankoCheater\\Selenium\\Selenium.csproj",
         "packagesPath": "C:\\Users\\bhh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bhh\\OneDrive - mercantec\\Programmering valgfag\\banko-Boris-Henriksen\\BankoCheater\\obj\\",
+        "outputPath": "C:\\Users\\bhh\\OneDrive - mercantec\\Programmering valgfag\\banko-Boris-Henriksen\\BankoCheater\\Selenium\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bhh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.21.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

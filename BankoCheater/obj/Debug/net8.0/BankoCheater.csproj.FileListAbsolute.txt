@@ -1,0 +1,5 @@
+C:\Users\bhh\OneDrive - mercantec\Programmering valgfag\banko-Boris-Henriksen\BankoCheater\obj\Debug\net8.0\BankoCheater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhh\OneDrive - mercantec\Programmering valgfag\banko-Boris-Henriksen\BankoCheater\obj\Debug\net8.0\BankoCheater.AssemblyInfoInputs.cache
+C:\Users\bhh\OneDrive - mercantec\Programmering valgfag\banko-Boris-Henriksen\BankoCheater\obj\Debug\net8.0\BankoCheater.AssemblyInfo.cs
+C:\Users\bhh\OneDrive - mercantec\Programmering valgfag\banko-Boris-Henriksen\BankoCheater\obj\Debug\net8.0\BankoCheater.csproj.CoreCompileInputs.cache
+C:\Users\bhh\OneDrive - mercantec\Programmering valgfag\banko-Boris-Henriksen\BankoCheater\obj\Debug\net8.0\BankoCheater.sourcelink.json
