@@ -5,7 +5,7 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankoCheater", "BankoCheater.csproj", "{AE988CEF-0567-4533-B3B3-9277456539AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium", "Selenium\Selenium.csproj", "{C8C2C973-AE45-43CC-B90C-2913F9E3AC8B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "selenium", "..\selenium\selenium.csproj", "{AA67E277-6F95-4BC3-A1B3-DCFBE370F9CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{AE988CEF-0567-4533-B3B3-9277456539AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE988CEF-0567-4533-B3B3-9277456539AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE988CEF-0567-4533-B3B3-9277456539AA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C8C2C973-AE45-43CC-B90C-2913F9E3AC8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C8C2C973-AE45-43CC-B90C-2913F9E3AC8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C8C2C973-AE45-43CC-B90C-2913F9E3AC8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C8C2C973-AE45-43CC-B90C-2913F9E3AC8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA67E277-6F95-4BC3-A1B3-DCFBE370F9CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA67E277-6F95-4BC3-A1B3-DCFBE370F9CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA67E277-6F95-4BC3-A1B3-DCFBE370F9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA67E277-6F95-4BC3-A1B3-DCFBE370F9CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
